@@ -1,0 +1,14 @@
+{
+  "name": "react-native-bridge-provider",
+  "version": "0.0.0",
+  "description": "Local React Native Rust bridge provider",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNBridgeProviderSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}

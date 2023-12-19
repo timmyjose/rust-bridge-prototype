@@ -1,0 +1,15 @@
+{
+  "name": "rust-bridge-prototype",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "Timmy Jose< zoltan.jose@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Tod\""
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
